@@ -1,6 +1,6 @@
 Hello! I'm Apurva Dange, a Master of Science student in Management of Technology at Arizona State University, specializing in technology innovation and entrepreneurship. I bring a rich background in engineering and a strong passion for technology-driven solutions.
 
-👨‍💻 Proficient in Python, C/C++, and Shell Scripting, I have extensive experience with Microsoft Azure, AWS, and automation technologies. My professional journey includes roles as a Software QA Engineer at ChargePoint and a Cloud Intern at Microsoft, where I developed key projects like the "Azure Edu-Chatbot: DevOps Master".
+👨‍💻 Proficient in Python, C/C++, and Shell Scripting, I have extensive experience with Microsoft Azure, AWS, and automation technologies. My professional journey includes roles as a Software QA Engineer at ChargePoint and a Cloud Intern at Microsoft, where I developed key projects like the "Azure Edu-Chatbot: DevOps Master". I am switching into Product roles.
 
 🔗 My current projects focus on enhancing student productivity and engagement through innovative tech solutions. I'm the Product Manager for ENLIGHTEN, an AI tool that secured first place and $5,000 in seed funding.
 
