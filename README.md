@@ -25,31 +25,31 @@ Hello! I'm Apurva Dange, a Master of Science student in Management of Technology
 
 ### 🌟 About Me 
 
-- [cite_start]🎓 MS in **Management of Technology** from **Arizona State University** (Expected May 2026) [cite: 44]
-- [cite_start]🌐 With **2+ years of cross-functional experience** across product management, software QA, and cloud development. [cite: 3]
-- [cite_start]📊 Skilled in driving end-to-end product delivery through **user research**, **rapid prototyping**, and **data-driven decision-making**. [cite: 4]
-- [cite_start]💡 Founder of **Anna.ai**, an AI-powered travel planner, and passionate about launching MVPs and scaling AI-powered solutions. [cite: 12, 4]
-- [cite_start]🤝 I thrive on collaboration and am eager to partner with cross-functional teams to solve complex user problems. [cite: 8]
+- 🎓 MS in **Management of Technology** from **Arizona State University** (Expected May 2026)
+- 🌐 With **2+ years of cross-functional experience** across product management, software QA, and cloud development. 
+- 📊 Skilled in driving end-to-end product delivery through **user research**, **rapid prototyping**, and **data-driven decision-making**. 
+- 💡 Founder of **Anna.ai**, an AI-powered travel planner, and passionate about launching MVPs and scaling AI-powered solutions. 
+- 🤝 I thrive on collaboration and am eager to partner with cross-functional teams to solve complex user problems. 
 
 ### 🚀 My Core Strengths
 
-- [cite_start]🤔 **User Research & Feedback Analysis** [cite: 4, 48]
-- [cite_start]🚀 **Rapid Prototyping & MVP Launch** [cite: 4, 14]
-- [cite_start]📈 **Data-Driven Decision-Making** [cite: 4]
-- [cite_start]🗺️ **Customer Journey Mapping & A/B Testing** [cite: 49]
+- 🤔 **User Research & Feedback Analysis** 
+- 🚀 **Rapid Prototyping & MVP Launch**
+- 📈 **Data-Driven Decision-Making** 
+- 🗺️ **Customer Journey Mapping & A/B Testing** 
 
 ### 📬 Contact Me
 
-- [cite_start]📧 **Email:** [adange@asu.edu](mailto:adange@asu.edu) [cite: 1]
+- 📧 **Email:** [adange@asu.edu](mailto:adange@asu.edu)
 - <p align="left">
-  [cite_start]<a href="https://www.linkedin.com/in/apurvadange"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a> [cite: 1]
+  [cite_start]<a href="https://www.linkedin.com/in/apurvadange"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
 </p>
 
 ### 🚀 Projects & Portfolio
 
-- [cite_start]📊 **QA & Dev Analytics Dashboard** - View on [Tableau Public](https://public.tableau.com/) [cite: 40]
-- [cite_start]🤖 **Anna.ai (AI Trip Planner)** - [Founder] [cite: 12]
-- [cite_start]☁️ **Azure Edu-Chatbot: DevOps Master** - [Microsoft Intern Project] [cite: 35]
+- 📊 **QA & Dev Analytics Dashboard** - View on [Tableau Public](https://public.tableau.com/)
+- 🤖 **Anna.ai (AI Trip Planner)** - [Founder] 
+- ☁️ **Azure Edu-Chatbot: DevOps Master** - [Microsoft Intern Project] 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -81,8 +81,3 @@ Hello! I'm Apurva Dange, a Master of Science student in Management of Technology
   </table>
 </p>
 
-### 🎈 Fun Facts
-
-- ✈️ [Add a hobby/interest here]
-- 💡 [Add a hobby/interest here]
-- 📚 [Add a hobby/interest here]
