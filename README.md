@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Apurva!</h1>
 <h3 align="center">A Product-Minded Technologist</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF" width="40%" height="auto">
-</p> 
-
 <p align="right">
   <a href="https://github.com/apurvadange"><img src="https://komarev.com/ghpvc/?username=apurvadange&label=Profile%20views&color=0e75b6&style=flat" alt="apurvadange"/></a>
 </p>
