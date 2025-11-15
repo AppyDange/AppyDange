@@ -27,7 +27,7 @@
 
 - 📧 **Email:** [adange@asu.edu](mailto:adange@asu.edu)
 - <p align="left">
-  [cite_start]<a href="https://www.linkedin.com/in/apurvadange"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/apurvadange"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
 </p>
 
 ### 🚀 Projects & Portfolio
