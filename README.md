@@ -1,68 +1,41 @@
-
-<h1 align="center">Hi 👋, I'm Apurva!</h1>
-<h3 align="center">A Product-Minded Technologist</h3>
-
-<p align="right">
-  <a href="https://github.com/apurvadange"><img src="https://komarev.com/ghpvc/?username=apurvadange&label=Profile%20views&color=0e75b6&style=flat" alt="apurvadange"/></a>
+<h1 align="center">Hi 👋, I'm Apurva Dange, CAPM®</h1>
+<h3 align="center">A Product Manager building at the intersection of HealthTech, AI, and User Experience.</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/apurvadange" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/apurvadange">
+    <img src="https://komarev.com/ghpvc/?username=apurvadange&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="apurvadange"/>
+  </a>
 </p>
 
 ---
 
-### 🌟 About Me 
+> I help teams turn complex ideas into intuitive, high-impact products that truly serve their users.
 
-- 🎓 MS in **Management of Technology** from **Arizona State University** (Expected May 2026)
-- 🌐 With **2+ years of cross-functional experience** across product management, software QA, and cloud development. 
-- 📊 Skilled in driving end-to-end product delivery through **user research**, **rapid prototyping**, and **data-driven decision-making**. 
-- 💡 Founder of **Anna.ai**, an AI-powered travel planner, and passionate about launching MVPs and scaling AI-powered solutions. 
-- 🤝 I thrive on collaboration and am eager to partner with cross-functional teams to solve complex user problems. 
+As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could transform healthcare delivery—and that's what I'm focused on.
 
-### 🚀 My Core Strengths
+### 🚀 What You'll Find Here
 
-- 🤔 **User Research & Feedback Analysis** 
-- 🚀 **Rapid Prototyping & MVP Launch**
-- 📈 **Data-Driven Decision-Making** 
-- 🗺️ **Customer Journey Mapping & A/B Testing** 
+This GitHub is my digital notebook and builder's space. It's where I follow my curiosity, try out new AI tools, and sketch product ideas. My LinkedIn is for my professional story; this is for the hands-on exploration.
 
-### 📬 Contact Me
+Here you'll find projects and code related to:
 
-- 📧 **Email:** [adange@asu.edu](mailto:adange@asu.edu)
-- <p align="left">
-  <a href="https://www.linkedin.com/in/apurvadange"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
-</p>
+* 🤖 **AI Product Prototyping:** Exploring new AI/LLM tools and building small MVPs (like my AI travel planner, **Anna.ai**).
+* 📊 **Data-Driven Insights:** Scripts and notebooks (Python, SQL) for analyzing data and finding the story *behind* the numbers.
+* 🏥 **HealthTech Innovation:** Experiments and research focused on simplifying healthcare workflows and improving usability.
+* ⚙️ **Product Frameworks:** Notes and analyses on strategy, disruptive innovation, and systemic design from my coursework.
 
-### 🚀 Projects & Portfolio
+### 💼 Professional Snapshot
 
-- 📊 **QA & Dev Analytics Dashboard** - View on [Tableau Public](https://public.tableau.com/)
-- 🤖 **Anna.ai (AI Trip Planner)** - [Founder] 
-- ☁️ **Azure Edu-Chatbot: DevOps Master** - [Microsoft Intern Project] 
+* 🎓 **Graduate Student:** Pursuing an MS in **Management of Technology** at **Arizona State University** (May 2026).
+* 🏥 **Product Intern @ AdviNOW Medical:** Currently building on an AI-powered healthcare platform, focusing on streamlining provider workflows and enhancing UI/UX for the "Dr. App."
+* 🔌 **Background:** My 3+ years in tech include **Software QA @ ChargePoint** (building end-to-end product understanding) and **Cloud Intern @ Microsoft**.
+* 🏆 **Certified:** **Certified Associate in Project Management (CAPM)®** from PMI.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/><br>Azure</a></td>
-      <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/><br>AWS</a></td>
-      <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python</a></td>
-      <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/><br>SQL</a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" width="40" height="40" alt="Tableau"/><br>Tableau</a></td>
-      <td align="center"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40" alt="MS Excel"/><br>MS Excel</a></td>
-      <td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/><br>Figma</a></td>
-      <td align="center"><a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" width="40" height="40" alt="Miro"/><br>Miro</a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira"/><br>Jira</a></td>
-      <td align="center"><a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" width="40" height="40" alt="Confluence"/><br>Confluence</a></td>
-      <td align="center"><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/><br>Jenkins</a></td>
-      <td align="center"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub"/><br>GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40" alt="Trello"/><br>Trello</a></td>
-      <td align="center"><a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" width="40" height="40" alt="Notion"/><br>Notion</a></td>
-      <td align="center"><a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="40" height="40" alt="Slack"/><br>Slack</a></td>
-      <td align="center"><a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++</a></td>
-    </tr>
-  </table>
-</p>
+### 💬 Let's Connect
 
+I'm always open to connecting with fellow product builders, engineers, and healthcare innovators. Let's build something that makes everyday systems smarter and easier to live with.
+
+**Find me on [LinkedIn](https://www.linkedin.com/in/apurvadange).**
