@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurva Dange, CAPM®</h1>
+<h1 align="center">Hi 👋, I'm Apurva Dange</h1>
 <h3 align="center">A Product Manager building at the intersection of HealthTech, AI, and User Experience.</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/apurvadange" target="_blank">
@@ -22,6 +22,7 @@ This GitHub is my digital notebook and builder's space. It's where I follow my c
 
 Here you'll find projects and code related to:
 
+* 🤖 **Agentic AI for Product Manager:** Exploring new AI/LLM workflows for Product Managers (PS: These is my personal toolkit).
 * 🤖 **AI Product Prototyping:** Exploring new AI/LLM tools and building small MVPs (like my AI travel planner, **Anna.ai**).
 * 📊 **Data-Driven Insights:** Scripts and notebooks (Python, SQL) for analyzing data and finding the story *behind* the numbers.
 * 🏥 **HealthTech Innovation:** Experiments and research focused on simplifying healthcare workflows and improving usability.
