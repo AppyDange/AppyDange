@@ -14,7 +14,7 @@
 
 > I help teams turn complex ideas into intuitive, high-impact products that truly serve their users.
 
-As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could transform healthcare delivery—and that's what I'm focused on.
+As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could transform healthcare delivery and that's what I'm focused on.
 
 ### 🚀 What You'll Find Here
 
