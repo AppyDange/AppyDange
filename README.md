@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurva Dange</h1>
+<h1 align="center">Hi 👋, I'm Apurva</h1>
 <h3 align="center">A Product Manager building at the intersection of HealthTech, AI, and User Experience.</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/apurvadange" target="_blank">
@@ -42,8 +42,6 @@ Here you'll find projects and code related to:
 I'm always open to connecting with fellow product builders, engineers, and healthcare innovators. Let's build something that makes everyday systems smarter and easier to live with.
 
 **Find me on [LinkedIn](https://www.linkedin.com/in/apurvadange).**
-
-
 
 
 
