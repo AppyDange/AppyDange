@@ -12,9 +12,9 @@
 
 ---
 
-<p align="center">I help teams turn complex ideas into intuitive, high-impact products that truly serve their users.</p>
+<h4> <p align="center">I help teams turn complex ideas into intuitive, high-impact products that truly serve their users.</p> </h4>
 
-
+---
 
 As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could transform healthcare delivery and that's what I'm focused on.
 
@@ -42,3 +42,10 @@ Here you'll find projects and code related to:
 I'm always open to connecting with fellow product builders, engineers, and healthcare innovators. Let's build something that makes everyday systems smarter and easier to live with.
 
 **Find me on [LinkedIn](https://www.linkedin.com/in/apurvadange).**
+
+
+
+
+
+
+
