@@ -32,7 +32,7 @@ Here you'll find projects and code related to:
 
 ### 💼 Professional Snapshot
 
-* 🎓 **Graduate Student:** Pursuing an MS in **Management of Technology** at **Arizona State University** (May 2026).
+* 🎓 **Graduate Student:** MS in **Management of Technology** at ASU, specializing in **Product Management** (May 2026).
 * 🏥 **Product Intern @ AdviNOW Medical:** Currently building on an AI-powered healthcare platform, focusing on streamlining provider workflows and enhancing UI/UX for the "Dr. App."
 * 🔌 **Background:** My 3+ years in tech include **Software QA @ ChargePoint** (building end-to-end product understanding) and **Cloud Intern @ Microsoft**.
 * 🏆 **Certified:** **Certified Associate in Project Management (CAPM)®** from PMI.
